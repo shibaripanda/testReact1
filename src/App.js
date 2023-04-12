@@ -15,7 +15,6 @@ function App() {
   return (
     <div className="App">
       work
-      ${tg}
       <button onClick={onClose}>Exit</button>
     </div>
   );
